@@ -39,7 +39,7 @@ d.text((80, 215), "ZUM BEDRUCKEN", font=font(72), fill=INK)
 d.text((80, 330), "Rohlinge · Druckverfahren · Mengenpreise 2026", font=font(30), fill="#444444")
 d.text((80, 395), "DTF · Siebdruck · Plotter · DTG", font=font(26), fill="#777777")
 d.text((80, H-72), "tshirtszumbedrucken.de", font=font(28), fill=YELLOW)
-t = "Ratgeber von Marmalade Co."
+t = "Rohlinge ab 1 Stück · Versand nach DE"
 f = font(22); d.text((W-80-d.textlength(t, font=f), H-68), t, font=f, fill="#bbbbbb")
 og.save(os.path.join(OUT, "og-image.png"), optimize=True)
 print("Assets:", sorted(os.listdir(OUT)))
