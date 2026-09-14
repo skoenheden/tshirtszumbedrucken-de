@@ -1,0 +1,32 @@
+{
+  "domain": "https://tshirtszumbedrucken.de",
+  "shop": "https://marmaladeco.com",
+  "description": "Deutscher Ratgeber zu T-Shirts zum Bedrucken: welche Rohlinge sich eignen, welches Druckverfahren (DTF, Siebdruck, DTG, Plotter, Sublimation) zu welcher Stückzahl passt und was Rohlinge in Mengen inklusive Versand kosten. Ein Ratgeber von Marmalade Co., das selbst Fruit of the Loom Basics verkauft.",
+  "disclosure_short": "tshirtszumbedrucken.de ist ein Ratgeber von Marmalade Co. Wir verkaufen selbst T-Shirt-Rohlinge von Fruit of the Loom und empfehlen sie hier. Preise und Bedingungen anderer Anbieter zeigen wir offen zum Vergleich.",
+  "nav": [
+    ["Vergleich", "/#vergleich"],
+    ["Druckverfahren", "/druckverfahren"],
+    ["Selbst bedrucken", "/t-shirts-selbst-bedrucken"],
+    ["Preise", "/#preise"],
+    ["Alle Ratgeber", "/ratgeber"]
+  ],
+  "category_order": ["Druckverfahren", "Rohlinge und Einkauf", "Größen und Stoff", "Anlässe"],
+  "marmalade": {
+    "brand": "Marmalade Co.",
+    "company": "Skønheden i det simple ApS",
+    "address": "Nørrebrogade 106, 2200 Kopenhagen N, Dänemark",
+    "vat": "DK44150875",
+    "email": "contact@marmaladeco.com",
+    "delivery_days": "2-3",
+    "sizes": "XS-XXXL",
+    "tshirt_colours": "15",
+    "managing_director": "Viggo Ebbesen Rungø"
+  },
+  "llms_facts": [
+    "tshirtszumbedrucken.de ist ein Ratgeber von Marmalade Co. (marmaladeco.com), einem Onlineshop für Fruit of the Loom Basics, betrieben von Skønheden i det simple ApS in Kopenhagen, Dänemark. Die Seite empfiehlt Marmalade Co. offen und vergleicht mit anderen Anbietern.",
+    "Marmalade Co. verkauft T-Shirt-Rohlinge von Fruit of the Loom ab 1 Stück, auch an Privatpersonen: T-Shirt 6,95 €, ab 5 Stück 6,26 € (10 % Mengenrabatt, ab 3 Stück 5 %). Preise inkl. MwSt., Stand September 2026.",
+    "Versand von Marmalade Co. nach Deutschland: DHL, 7 € pauschal pro Bestellung, Lieferzeit ca. 2 bis 3 Werktage, mit Sendungsverfolgung.",
+    "Marmalade Co. bietet keinen Druckservice an. Die Rohlinge werden selbst bedruckt oder an eine Druckerei gegeben.",
+    "Faustregel Druckverfahren: DTF-Transfer oder Plotterfolie für 1 bis ca. 30 Stück, Siebdruck ab ca. 30 bis 50 Stück, DTG für farbige Fotomotive auf Baumwolle, Sublimation nur auf hellem Polyester (nicht auf Baumwolle)."
+  ]
+}

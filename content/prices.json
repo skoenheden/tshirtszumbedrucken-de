@@ -1,0 +1,74 @@
+{
+  "currency": "EUR",
+  "shipping_eur": 7.0,
+  "discounts": [
+    {
+      "min_qty": 3,
+      "pct": 5
+    },
+    {
+      "min_qty": 5,
+      "pct": 10
+    }
+  ],
+  "quantities": [
+    1,
+    10,
+    50,
+    100,
+    250
+  ],
+  "products": [
+    {
+      "id": "t-shirt",
+      "path": "/products/fruit-of-the-loom-t-shirt",
+      "price": 6.95
+    },
+    {
+      "id": "v-neck",
+      "path": "/products/fruit-of-the-loom-v-neck-t-shirt",
+      "price": 6.95
+    },
+    {
+      "id": "long-sleeve",
+      "path": "/products/fruit-of-the-loom-langaermet-t-shirt",
+      "price": 8.95
+    },
+    {
+      "id": "tank-top",
+      "path": "/products/fruit-of-the-loom-tank-top-herre",
+      "price": 5.95
+    },
+    {
+      "id": "polo",
+      "path": "/products/fruit-of-the-loom-original-poloshirt",
+      "price": 10.95
+    },
+    {
+      "id": "shorts",
+      "path": "/products/fruit-of-the-loom-shorts",
+      "price": 9.95
+    },
+    {
+      "id": "sweatshirt",
+      "path": "/products/fruit-of-the-loom-crewneck-sweatshirt",
+      "price": 16.95
+    },
+    {
+      "id": "sweatpants",
+      "path": "/products/fruit-of-the-loom-sweatpants-med-elastik",
+      "price": 11.95
+    },
+    {
+      "id": "hoodie",
+      "path": "/products/fruit-of-the-loom-hoodie",
+      "price": 20.95
+    },
+    {
+      "id": "zip-hoodie",
+      "path": "/products/fruit-of-the-loom-zip-hoodie",
+      "price": 27.95
+    }
+  ],
+  "checked": "2026-09-14"
+}

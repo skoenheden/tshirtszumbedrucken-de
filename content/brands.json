@@ -1,0 +1,51 @@
+{
+  "checked": "2026-09-14",
+  "note": "Nur Werte, die auf der Produktseite des Shops stehen. Nettopreise sind als solche markiert (Brutto = netto x 1,19). Fehlt eine Angabe: 'nicht angegeben'.",
+  "rows": [
+    {
+      "marmalade": true,
+      "shop": "Marmalade Co.",
+      "model": "Fruit of the Loom T-Shirt",
+      "path": "/products/fruit-of-the-loom-t-shirt",
+      "fabric": "Baumwolle, 15 Farben, XS bis XXXL",
+      "price": "6,95 €",
+      "price_note": "inkl. MwSt., ab 5 Stück 6,26 €",
+      "buyers": "Privat und Gewerbe, ab 1 Stück",
+      "shipping": "7 € mit DHL, ca. 2 bis 3 Werktage",
+      "tags": ["baumwolle", "privat"]
+    },
+    {
+      "shop": "textil-grosshandel.eu",
+      "model": "Fruit of the Loom Valueweight T",
+      "url": "https://www.textil-grosshandel.eu/fruit-of-the-loom-valueweight-t.html",
+      "fabric": "100 % Baumwolle, ca. 160 g/m²",
+      "price": "ab 2,61 €",
+      "price_note": "netto zzgl. 19 % MwSt., ca. 3,11 € brutto",
+      "buyers": "Nur Gewerbekunden",
+      "shipping": "Versandfrei ab 150 € (unbedruckt)",
+      "tags": ["baumwolle", "gewerbe"]
+    },
+    {
+      "shop": "freewear.de",
+      "model": "Gildan Heavy Cotton 5000",
+      "url": "https://freewear.de/Heavy-Cotton-Adult-T-Shirt-Gildan-5000-G5000",
+      "fabric": "100 % Baumwolle, 180 g/m² (weiß 170 g/m²)",
+      "price": "ab 2,67 €",
+      "price_note": "netto zzgl. 19 % USt., ca. 3,18 € brutto",
+      "buyers": "B2B-Großhandel",
+      "shipping": "6,95 €, frei ab 299 €",
+      "tags": ["baumwolle", "gewerbe"]
+    },
+    {
+      "shop": "better-shirts.de",
+      "model": "Stanley/Stella Creator 2.0",
+      "url": "https://www.better-shirts.de/stanley-stella-creator-2-0-bio-t-shirt-beste-qualitaet.html",
+      "fabric": "100 % Bio-Baumwolle, 180 g/m²",
+      "price": "16,60 €",
+      "price_note": "inkl. MwSt., ab 10 Stück 8,93 €, ab 50 Stück 8,28 €",
+      "buyers": "Privat und Gewerbe, ab 1 Stück",
+      "shipping": "Versandfrei ab 99 €",
+      "tags": ["bio", "privat"]
+    }
+  ]
+}
